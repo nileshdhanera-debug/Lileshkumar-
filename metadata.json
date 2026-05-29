@@ -1,0 +1,6 @@
+{
+  "name": "UPVC Stock",
+  "description": "Manage UPVC sheets and hardware stocks. Automatically deducts inventory when furniture is crafted.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
